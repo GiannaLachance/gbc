@@ -1,3 +1,3 @@
 # gbc
 
-[Link To Comp1238](comp1238.md)
+[Comp1238](comp1238.md)
